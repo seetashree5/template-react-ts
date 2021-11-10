@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import "./less/App.less";
+import { useState } from "react";
+import "./less/app.less";
 
 function App() {
   const [count, setCount] = useState(0);
